@@ -1,6 +1,7 @@
 # 시스템 프로그래밍 프로그램 작성
 
 ## 구현 설명 동영상 링크
+https://drive.google.com/file/d/1A3JI17ffsqXhLkMTon5-wfwr8AY0VbN0/view?usp=sharing
 
 ## 프로그램 내용 평가 조건 중 구현된 부분
 * 주석 처리 여부 ⭕
