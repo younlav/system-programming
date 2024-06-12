@@ -1,6 +1,6 @@
 # 시스템 프로그래밍 프로그램 작성
 
-## 구현 설명 동영상 링크
+## 구현 설명 동영상 링크(파일 크기가 너무 커서. 구글 드라이브 링크로 첨부합니다!!)
 https://drive.google.com/file/d/1A3JI17ffsqXhLkMTon5-wfwr8AY0VbN0/view?usp=sharing
 
 ## 프로그램 내용 평가 조건 중 구현된 부분
